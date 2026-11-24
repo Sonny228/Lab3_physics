@@ -1,0 +1,6 @@
+out/
+.vs/
+build/
+CMakeSettings.json
+*.user
+screenshot_*.png
